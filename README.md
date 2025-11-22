@@ -81,7 +81,7 @@ Registrará los datos del usuario en formato JSON
  
 **GET (Obtener un Usuario por su Id):**
 
-[*http://localhost:8080/api/v1/users*](http://localhost:8080/api/v1/users)/* a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11
+[*http://localhost:8080/api/v1/users*](http://localhost:8080/api/v1/users)/a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11
 
 **Resultado:**
 
@@ -90,7 +90,7 @@ Registrará los datos del usuario en formato JSON
 
 **PUT (Hacer cambios en todo el registro):**
 
-[*http://localhost:8080/api/v1/users*](http://localhost:8080/api/v1/users)/* a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11
+[*http://localhost:8080/api/v1/users*](http://localhost:8080/api/v1/users)/a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11
 
 **Ejemplo:**
 
@@ -102,7 +102,7 @@ Resultado:\
  
 **PATCH (Hacer cambios parciales al objeto):**
 
-[*http://localhost:8080/api/v1/users*](http://localhost:8080/api/v1/users)/* a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11
+[*http://localhost:8080/api/v1/users*](http://localhost:8080/api/v1/users)/a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11
 
 **Ejemplo y Resultado:**
 
